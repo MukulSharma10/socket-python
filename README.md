@@ -1,1 +1,1 @@
-This is a simple way of estabilishing a client-server architecture in python using socket
+This is a simple demonstration of a client-server architecture in python using socket
